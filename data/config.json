@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "pubInterval": "5000"
+    },
+    "ssid": "Eun",
+    "w_pw": "eun991215",
+    "org": "fqda70",
+    "devType": "ESP8266",
+    "devId": "dev1",
+    "token": "4FAjHX72ILP!5npP!l",
+    "config": "done"
+}
